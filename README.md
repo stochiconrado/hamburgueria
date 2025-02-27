@@ -1,0 +1,1 @@
+🚀 Aprenda a construir um projeto completo do zero utilizando HTML, CSS, TailwindCSS e JavaScript. Neste projeto passo a passo, você dominará as técnicas essenciais de desenvolvimento web, criando uma aplicação dinâmica e responsiva até criar projeto completo.
