@@ -1,3 +1,5 @@
+# DevBurguer 🍔
+
 O projeto [hamburgueria](https://github.com/stochiconrado/hamburgueria) é um tutorial passo a passo que ensina a construir uma aplicação web completa utilizando HTML, CSS, TailwindCSS e JavaScript. O objetivo é capacitar desenvolvedores a criar aplicações dinâmicas e responsivas desde o início.
 
 Para enriquecer o README do projeto, sugiro incluir as seguintes seções:
